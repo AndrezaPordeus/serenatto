@@ -11,6 +11,7 @@ O **Serenatto** é um projeto de website para uma cafeteria fictícia desenvolvi
 
 Este projeto foi desenvolvido seguindo o design original criado no Figma durante o curso da Alura. O protótipo inclui todas as telas, componentes e especificações de design que foram implementadas no código.
 
+
 ### 📋 Link do Design
 **Protótipo no Figma**: [Ver design original](https://www.figma.com/design/1jsN5KMprfMLOrYc8QrJZh/Bootstrap-5--novos-recursos-e-práticas-recomendadas-de-HTML--CSS-e-JS-%7C-Serenatto?node-id=116-73333&t=9FBoxdUvPCHroYlf-0)
 
