@@ -2,11 +2,6 @@
 
 O **Serenatto** é um projeto de website para uma cafeteria fictícia desenvolvido durante o curso de Bootstrap da plataforma Alura. Este projeto demonstra a aplicação prática dos conceitos de desenvolvimento web responsivo utilizando HTML5, CSS3, JavaScript e Bootstrap 5.
 
-### 📸 Preview do Design
-
-![Design do Projeto Serenatto](design-preview.png)
-*Interface principal do site Serenatto - Design responsivo para desktop e mobile*
-
 ## 🎨 Design e Protótipo
 
 Este projeto foi desenvolvido seguindo o design original criado no Figma durante o curso da Alura. O protótipo inclui todas as telas, componentes e especificações de design que foram implementadas no código.
